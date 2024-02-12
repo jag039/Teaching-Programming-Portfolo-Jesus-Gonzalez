@@ -12,3 +12,5 @@ Video 4: Nested for loop tutorial -> https://youtu.be/Lr8DU3G9Tc4?si=nRMICzhUDyL
 Video 5: Concept of events -> https://youtu.be/QU0RMwnI0w8?si=Wgxk5vH2TMd_MoyC
 
 Video 6: Variable Tutorial -> https://youtu.be/emS8ENJtIOI?si=pJ5z94fJh_wdaiID
+
+Video 7: Conditional Loop Tutorial -> https://youtu.be/HJSezI1stD4?si=rg-eFOS28R-jAvfN
