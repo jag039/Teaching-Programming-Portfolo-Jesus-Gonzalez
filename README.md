@@ -16,3 +16,5 @@ Video 6: Variable Tutorial -> https://youtu.be/emS8ENJtIOI?si=pJ5z94fJh_wdaiID
 Video 7: Conditional Loop Tutorial -> https://youtu.be/HJSezI1stD4?si=rg-eFOS28R-jAvfN
 
 Video 8: If-Else Tutorial -> https://youtu.be/2zLfsyXdzYA?si=88xQyJsOxj4GT40v
+
+Video 9: Nested Ifs Tutorial -> https://youtu.be/_wMbV9u8Jmg?si=zY8x8dsD7QkGeAcH
