@@ -22,3 +22,5 @@ Video 9: Nested Ifs Tutorial -> https://youtu.be/_wMbV9u8Jmg?si=zY8x8dsD7QkGeAcH
 Video 10: Conditionals: Tutorial -> https://youtu.be/HSKgj68WO7M?si=mnutqii48HsWpGCk
 
 Video 11: Paramters and nested Functions: Tutorial -> https://youtu.be/DvWJ4Vp8ywo?si=NlHF0Gs6ATCWEDiE
+
+Video 12: List: Tutoral -> https://youtu.be/lRhvxzDjA94?si=YFUumW3kYhEk485B
